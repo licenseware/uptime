@@ -8,12 +8,13 @@ sites:
     url: https://us.licenseware.io
   - name: Ecommerce
     url: https://licenseware.io
-
+assignees:
+  - meysam81
 status-website:
   # cname: up.licenseware.io
   baseUrl: /uptime
   logoUrl: https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png
-  name: Upptime
+  name: Licenseware Uptime
   introTitle: Licenseware
   introMessage: The License Management App Ecosystem
   navbar:
@@ -21,3 +22,11 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/licenseware/uptime
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/1 * * * *"
