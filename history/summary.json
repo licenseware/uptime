@@ -4,19 +4,19 @@
     "url": "https://app.licenseware.io",
     "icon": "https://icons.duckduckgo.com/ip3/app.licenseware.io.ico",
     "slug": "application-eu",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 683,
-    "timeDay": 731,
-    "timeWeek": 683,
-    "timeMonth": 683,
-    "timeYear": 683,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 699,
+    "timeDay": 757,
+    "timeWeek": 699,
+    "timeMonth": 699,
+    "timeYear": 699,
     "dailyMinutesDown": {
-      "2023-11-23": 0
+      "2023-11-23": 7
     }
   },
   {
