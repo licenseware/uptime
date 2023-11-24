@@ -4,20 +4,25 @@ repo: uptime
 sites:
   - name: Application - EU
     url: https://app.licenseware.io
+    icon: https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png
   - name: Backend - EU
     url: https://api.licenseware.io/licenseware/
+    icon: https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png
     expectedStatusCodes:
       - 200
       - 404
   - name: Application - US
     url: https://us.licenseware.io
+    icon: https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png
   - name: Backend - US
     url: https://api.us.licenseware.io/licenseware/
+    icon: https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png
     expectedStatusCodes:
       - 200
       - 404
   - name: Landing page
     url: https://licenseware.io
+    icon: https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png
 assignees:
   - meysam81
 status-website:
