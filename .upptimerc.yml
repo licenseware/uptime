@@ -26,8 +26,8 @@ sites:
 assignees:
   - meysam81
 status-website:
-  # cname: up.licenseware.io
-  baseUrl: /uptime
+  cname: status.licenseware.io
+  baseUrl: /
   logoUrl: https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png
   name: Licenseware Uptime
   introTitle: Licenseware
