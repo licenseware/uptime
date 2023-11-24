@@ -4,9 +4,19 @@ repo: uptime
 sites:
   - name: Application - EU
     url: https://app.licenseware.io
+  - name: Backend - EU
+    url: https://api.licenseware.io/licenseware/
+    expectedStatusCodes:
+      - 200
+      - 404
   - name: Application - US
     url: https://us.licenseware.io
-  - name: Ecommerce
+  - name: Backend - US
+    url: https://api.us.licenseware.io/licenseware/
+    expectedStatusCodes:
+      - 200
+      - 404
+  - name: Landing page
     url: https://licenseware.io
 assignees:
   - meysam81
