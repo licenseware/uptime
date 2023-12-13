@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.85%",
-    "time": 611,
-    "timeDay": 354,
-    "timeWeek": 463,
-    "timeMonth": 611,
-    "timeYear": 611,
+    "time": 606,
+    "timeDay": 445,
+    "timeWeek": 467,
+    "timeMonth": 606,
+    "timeYear": 606,
     "dailyMinutesDown": {
       "2023-12-01": 50
     }
@@ -25,16 +25,16 @@
     "icon": "https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png",
     "slug": "backend-eu",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 532,
-    "timeDay": 331,
-    "timeWeek": 479,
-    "timeMonth": 532,
-    "timeYear": 532,
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 529,
+    "timeDay": 456,
+    "timeWeek": 478,
+    "timeMonth": 529,
+    "timeYear": 529,
     "dailyMinutesDown": {
       "2023-12-01": 50
     }
@@ -45,19 +45,17 @@
     "icon": "https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png",
     "slug": "application-us",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 243,
-    "timeDay": 135,
-    "timeWeek": 216,
-    "timeMonth": 243,
-    "timeYear": 243,
-    "dailyMinutesDown": {
-      "2023-12-12": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 236,
+    "timeDay": 44,
+    "timeWeek": 196,
+    "timeMonth": 236,
+    "timeYear": 236,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Backend - US",
@@ -65,19 +63,17 @@
     "icon": "https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png",
     "slug": "backend-us",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 188,
-    "timeDay": 91,
-    "timeWeek": 161,
-    "timeMonth": 188,
-    "timeYear": 188,
-    "dailyMinutesDown": {
-      "2023-12-12": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 183,
+    "timeDay": 40,
+    "timeWeek": 146,
+    "timeMonth": 183,
+    "timeYear": 183,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Landing page",
@@ -90,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 964,
-    "timeDay": 799,
-    "timeWeek": 947,
-    "timeMonth": 964,
-    "timeYear": 964,
+    "time": 957,
+    "timeDay": 803,
+    "timeWeek": 939,
+    "timeMonth": 957,
+    "timeYear": 957,
     "dailyMinutesDown": {}
   }
 ]
