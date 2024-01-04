@@ -64,18 +64,20 @@
     "url": "https://api.us.licenseware.io/licenseware/",
     "icon": "https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png",
     "slug": "backend-us",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 180,
-    "timeDay": 207,
-    "timeWeek": 172,
-    "timeMonth": 170,
-    "timeYear": 180,
-    "dailyMinutesDown": {}
+    "time": 252,
+    "timeDay": 1911,
+    "timeWeek": 603,
+    "timeMonth": 268,
+    "timeYear": 252,
+    "dailyMinutesDown": {
+      "2024-01-04": 0
+    }
   },
   {
     "name": "Landing page",
