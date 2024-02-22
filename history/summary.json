@@ -68,9 +68,9 @@
     "url": "https://api.us.licenseware.io/licenseware/",
     "icon": "https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png",
     "slug": "backend-us",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -80,6 +80,7 @@
     "timeMonth": 130,
     "timeYear": 198,
     "dailyMinutesDown": {
+      "2024-02-22": 0,
       "2024-01-04": 24
     }
   },
