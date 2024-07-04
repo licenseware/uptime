@@ -71,8 +71,8 @@
     "slug": "backend-us",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 183,
@@ -81,7 +81,7 @@
     "timeMonth": 186,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2024-07-04": 0,
+      "2024-07-04": 1,
       "2024-03-27": 18,
       "2024-02-22": 28,
       "2024-01-04": 24
