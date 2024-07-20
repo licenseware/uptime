@@ -1,7 +1,7 @@
 url: https://api.au.licenseware.io/licenseware/
-status: down
-code: 503
-responseTime: 450
-lastUpdated: 2024-07-20T07:26:02.203Z
+status: up
+code: 404
+responseTime: 504
+lastUpdated: 2024-07-20T07:37:49.693Z
 startTime: 2024-02-26T02:55:31.020Z
 generator: Upptime <https://github.com/upptime/upptime>
