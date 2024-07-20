@@ -13,7 +13,7 @@
     "time": 255,
     "timeDay": 242,
     "timeWeek": 206,
-    "timeMonth": 183,
+    "timeMonth": 182,
     "timeYear": 255,
     "dailyMinutesDown": {
       "2024-01-25": 78,
@@ -35,7 +35,7 @@
     "time": 556,
     "timeDay": 424,
     "timeWeek": 445,
-    "timeMonth": 476,
+    "timeMonth": 477,
     "timeYear": 556,
     "dailyMinutesDown": {
       "2024-05-19": 1,
@@ -58,7 +58,7 @@
     "time": 172,
     "timeDay": 190,
     "timeWeek": 192,
-    "timeMonth": 181,
+    "timeMonth": 179,
     "timeYear": 172,
     "dailyMinutesDown": {
       "2024-01-04": 4
@@ -78,7 +78,7 @@
     "time": 627,
     "timeDay": 2161,
     "timeWeek": 2063,
-    "timeMonth": 1489,
+    "timeMonth": 1500,
     "timeYear": 627,
     "dailyMinutesDown": {
       "2024-07-20": 53,
@@ -113,19 +113,19 @@
     "url": "https://api.au.licenseware.io/licenseware/",
     "icon": "https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png",
     "slug": "backend-au",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "64.98%",
-    "uptimeWeek": "91.30%",
+    "uptimeDay": "65.11%",
+    "uptimeWeek": "91.32%",
     "uptimeMonth": "98.00%",
     "uptimeYear": "99.58%",
-    "time": 2701,
-    "timeDay": 4919,
-    "timeWeek": 4891,
-    "timeMonth": 4236,
-    "timeYear": 2701,
+    "time": 2693,
+    "timeDay": 4785,
+    "timeWeek": 4858,
+    "timeMonth": 4235,
+    "timeYear": 2693,
     "dailyMinutesDown": {
-      "2024-07-20": 505,
+      "2024-07-20": 503,
       "2024-07-19": 372
     }
   },
@@ -143,7 +143,7 @@
     "time": 878,
     "timeDay": 774,
     "timeWeek": 869,
-    "timeMonth": 877,
+    "timeMonth": 884,
     "timeYear": 878,
     "dailyMinutesDown": {
       "2024-05-11": 63,
