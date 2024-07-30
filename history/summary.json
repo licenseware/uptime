@@ -4,9 +4,9 @@
     "url": "https://app.licenseware.io",
     "icon": "https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png",
     "slug": "application-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -16,6 +16,7 @@
     "timeMonth": 184,
     "timeYear": 252,
     "dailyMinutesDown": {
+      "2024-07-30": 0,
       "2024-01-25": 78,
       "2023-12-17": 16,
       "2023-12-01": 50
@@ -49,9 +50,9 @@
     "url": "https://us.licenseware.io",
     "icon": "https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png",
     "slug": "application-us",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -61,6 +62,7 @@
     "timeMonth": 152,
     "timeYear": 170,
     "dailyMinutesDown": {
+      "2024-07-30": 0,
       "2024-01-04": 4
     }
   },
