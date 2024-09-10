@@ -1,7 +1,7 @@
 url: https://api.us.licenseware.io/licenseware/
-status: down
-code: 503
-responseTime: 707
-lastUpdated: 2024-09-10T17:45:08.183Z
+status: up
+code: 404
+responseTime: 13649
+lastUpdated: 2024-09-10T17:50:31.429Z
 startTime: 2023-11-24T02:35:57.299Z
 generator: Upptime <https://github.com/upptime/upptime>
