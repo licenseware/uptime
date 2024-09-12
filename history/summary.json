@@ -105,19 +105,19 @@
     "url": "https://au.licenseware.io",
     "icon": "https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png",
     "slug": "application-au",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 657,
-    "timeDay": 749,
-    "timeWeek": 717,
-    "timeMonth": 674,
-    "timeYear": 657,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 656,
+    "timeDay": 662,
+    "timeWeek": 692,
+    "timeMonth": 669,
+    "timeYear": 656,
     "dailyMinutesDown": {
-      "2024-09-12": 0
+      "2024-09-12": 15
     }
   },
   {
