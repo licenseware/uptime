@@ -105,18 +105,20 @@
     "url": "https://au.licenseware.io",
     "icon": "https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png",
     "slug": "application-au",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 656,
-    "timeDay": 771,
-    "timeWeek": 716,
-    "timeMonth": 673,
-    "timeYear": 656,
-    "dailyMinutesDown": {}
+    "time": 657,
+    "timeDay": 749,
+    "timeWeek": 717,
+    "timeMonth": 674,
+    "timeYear": 657,
+    "dailyMinutesDown": {
+      "2024-09-12": 0
+    }
   },
   {
     "name": "Backend - AU",
