@@ -184,17 +184,19 @@
     "url": "https://licenseware.primequantract.com/",
     "icon": "https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png",
     "slug": "accenture-instance",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 133,
-    "timeDay": 98,
-    "timeWeek": 133,
-    "timeMonth": 133,
-    "timeYear": 133,
-    "dailyMinutesDown": {}
+    "time": 634,
+    "timeDay": 1618,
+    "timeWeek": 634,
+    "timeMonth": 634,
+    "timeYear": 634,
+    "dailyMinutesDown": {
+      "2024-10-28": 0
+    }
   }
 ]
