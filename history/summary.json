@@ -64,12 +64,12 @@
     "slug": "backend-us",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "96.40%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.52%",
     "uptimeMonth": "98.65%",
     "uptimeYear": "99.38%",
     "time": 1006,
-    "timeDay": 588,
+    "timeDay": 442,
     "timeWeek": 724,
     "timeMonth": 751,
     "timeYear": 1111,
@@ -133,12 +133,12 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 653,
     "timeDay": 726,
     "timeWeek": 692,
-    "timeMonth": 653,
+    "timeMonth": 654,
     "timeYear": 653,
     "dailyMinutesDown": {
       "2025-01-06": 66
@@ -220,9 +220,9 @@
     "url": "https://licenseware.primequantract.com/",
     "icon": "https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png",
     "slug": "accenture-instance",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -232,6 +232,7 @@
     "timeMonth": 206,
     "timeYear": 256,
     "dailyMinutesDown": {
+      "2025-02-06": 0,
       "2024-12-19": 19
     }
   }
