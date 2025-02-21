@@ -44,9 +44,9 @@
     "url": "https://us.licenseware.io",
     "icon": "https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png",
     "slug": "application-us",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -55,16 +55,18 @@
     "timeWeek": 176,
     "timeMonth": 227,
     "timeYear": 184,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-21": 0
+    }
   },
   {
     "name": "Backend - US",
     "url": "https://api.us.licenseware.io/licenseware/",
     "icon": "https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png",
     "slug": "backend-us",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.54%",
     "uptimeMonth": "99.15%",
     "uptimeYear": "99.34%",
@@ -74,6 +76,7 @@
     "timeMonth": 782,
     "timeYear": 1125,
     "dailyMinutesDown": {
+      "2025-02-21": 0,
       "2025-02-20": 53,
       "2025-02-18": 21,
       "2025-02-17": 23,
@@ -135,9 +138,9 @@
     "slug": "application-au",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 652,
     "timeDay": 647,
@@ -145,7 +148,7 @@
     "timeMonth": 665,
     "timeYear": 652,
     "dailyMinutesDown": {
-      "2025-02-21": 0,
+      "2025-02-21": 7,
       "2025-01-06": 66
     }
   },
@@ -156,9 +159,9 @@
     "slug": "backend-au",
     "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.78%",
     "time": 1983,
     "timeDay": 815,
@@ -166,7 +169,7 @@
     "timeMonth": 846,
     "timeYear": 1983,
     "dailyMinutesDown": {
-      "2025-02-21": 0,
+      "2025-02-21": 7,
       "2024-07-21": 255,
       "2024-07-20": 529,
       "2024-07-19": 372
