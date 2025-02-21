@@ -46,18 +46,16 @@
     "slug": "application-us",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 181,
     "timeDay": 240,
     "timeWeek": 176,
     "timeMonth": 227,
     "timeYear": 184,
-    "dailyMinutesDown": {
-      "2025-02-21": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Backend - US",
@@ -66,17 +64,16 @@
     "slug": "backend-us",
     "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "98.43%",
-    "uptimeMonth": "99.12%",
-    "uptimeYear": "99.33%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.54%",
+    "uptimeMonth": "99.15%",
+    "uptimeYear": "99.34%",
     "time": 1001,
     "timeDay": 426,
     "timeWeek": 686,
     "timeMonth": 782,
     "timeYear": 1125,
     "dailyMinutesDown": {
-      "2025-02-21": 11,
       "2025-02-20": 53,
       "2025-02-18": 21,
       "2025-02-17": 23,
@@ -136,9 +133,9 @@
     "url": "https://au.licenseware.io",
     "icon": "https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png",
     "slug": "application-au",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -148,6 +145,7 @@
     "timeMonth": 665,
     "timeYear": 652,
     "dailyMinutesDown": {
+      "2025-02-21": 0,
       "2025-01-06": 66
     }
   },
@@ -156,9 +154,9 @@
     "url": "https://api.au.licenseware.io/licenseware/",
     "icon": "https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png",
     "slug": "backend-au",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
@@ -168,6 +166,7 @@
     "timeMonth": 846,
     "timeYear": 1983,
     "dailyMinutesDown": {
+      "2025-02-21": 0,
       "2024-07-21": 255,
       "2024-07-20": 529,
       "2024-07-19": 372
