@@ -46,9 +46,9 @@
     "slug": "application-us",
     "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "75.84%",
-    "uptimeWeek": "93.82%",
-    "uptimeMonth": "98.58%",
+    "uptimeDay": "75.53%",
+    "uptimeWeek": "93.78%",
+    "uptimeMonth": "98.57%",
     "uptimeYear": "99.88%",
     "time": 184,
     "timeDay": 195,
@@ -56,6 +56,7 @@
     "timeMonth": 204,
     "timeYear": 186,
     "dailyMinutesDown": {
+      "2025-02-23": 4,
       "2025-02-22": 348,
       "2025-02-21": 276
     }
@@ -67,9 +68,9 @@
     "slug": "backend-us",
     "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "75.83%",
-    "uptimeWeek": "92.36%",
-    "uptimeMonth": "97.72%",
+    "uptimeDay": "75.52%",
+    "uptimeWeek": "92.32%",
+    "uptimeMonth": "97.71%",
     "uptimeYear": "99.22%",
     "time": 925,
     "timeDay": 319,
@@ -77,6 +78,7 @@
     "timeMonth": 456,
     "timeYear": 1027,
     "dailyMinutesDown": {
+      "2025-02-23": 4,
       "2025-02-22": 348,
       "2025-02-21": 276,
       "2025-02-20": 53,
