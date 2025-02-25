@@ -44,9 +44,9 @@
     "url": "https://us.licenseware.io",
     "icon": "https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png",
     "slug": "application-us",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "66.91%",
+    "uptimeDay": "66.89%",
     "uptimeWeek": "81.69%",
     "uptimeMonth": "95.79%",
     "uptimeYear": "99.65%",
@@ -68,12 +68,12 @@
     "url": "https://api.us.licenseware.io/licenseware/",
     "icon": "https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png",
     "slug": "backend-us",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "66.91%",
-    "uptimeWeek": "80.87%",
+    "uptimeDay": "66.89%",
+    "uptimeWeek": "80.86%",
     "uptimeMonth": "94.86%",
-    "uptimeYear": "99.13%",
+    "uptimeYear": "99.14%",
     "time": 847,
     "timeDay": 310,
     "timeWeek": 323,
@@ -114,8 +114,7 @@
       "2024-12-02": 64,
       "2024-11-30": 32,
       "2024-11-26": 30,
-      "2024-11-18": 17,
-      "2024-11-15": 22
+      "2024-11-18": 17
     }
   },
   {
