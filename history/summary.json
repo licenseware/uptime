@@ -44,14 +44,14 @@
     "url": "https://us.licenseware.io",
     "icon": "https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png",
     "slug": "application-us",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "70.78%",
-    "uptimeWeek": "72.61%",
-    "uptimeMonth": "93.70%",
-    "uptimeYear": "99.47%",
+    "uptimeDay": "70.76%",
+    "uptimeWeek": "72.82%",
+    "uptimeMonth": "93.75%",
+    "uptimeYear": "99.48%",
     "time": 182,
-    "timeDay": 159,
+    "timeDay": 158,
     "timeWeek": 183,
     "timeMonth": 187,
     "timeYear": 183,
@@ -62,7 +62,7 @@
       "2025-02-25": 442,
       "2025-02-24": 442,
       "2025-02-23": 552,
-      "2025-02-22": 276
+      "2025-02-22": 254
     }
   },
   {
@@ -70,15 +70,15 @@
     "url": "https://api.us.licenseware.io/licenseware/",
     "icon": "https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png",
     "slug": "backend-us",
-    "status": "up",
-    "uptime": "99.58%",
-    "uptimeDay": "69.73%",
-    "uptimeWeek": "72.37%",
-    "uptimeMonth": "93.64%",
-    "uptimeYear": "99.47%",
+    "status": "down",
+    "uptime": "99.59%",
+    "uptimeDay": "69.72%",
+    "uptimeWeek": "72.68%",
+    "uptimeMonth": "93.71%",
+    "uptimeYear": "99.48%",
     "time": 774,
-    "timeDay": 273,
-    "timeWeek": 306,
+    "timeDay": 269,
+    "timeWeek": 307,
     "timeMonth": 349,
     "timeYear": 837,
     "dailyMinutesDown": {
@@ -88,7 +88,7 @@
       "2025-02-25": 442,
       "2025-02-24": 472,
       "2025-02-23": 552,
-      "2025-02-22": 254
+      "2025-02-22": 223
     }
   },
   {
