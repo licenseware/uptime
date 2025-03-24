@@ -35,7 +35,7 @@ sites:
   - name: Landing page
     url: https://licenseware.io
     icon: https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png
-  - name: Accenture Instance
+  - name: Primequantract
     url: https://licenseware.primequantract.com/
     icon: https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png
 assignees:
