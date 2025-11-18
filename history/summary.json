@@ -22,18 +22,20 @@
     "url": "https://api.licenseware.io/licenseware/",
     "icon": "https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png",
     "slug": "backend-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 584,
-    "timeDay": 832,
-    "timeWeek": 716,
-    "timeMonth": 597,
-    "timeYear": 603,
-    "dailyMinutesDown": {}
+    "time": 583,
+    "timeDay": 480,
+    "timeWeek": 650,
+    "timeMonth": 583,
+    "timeYear": 601,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Application - US",
@@ -66,25 +68,26 @@
     "url": "https://api.us.licenseware.io/licenseware/",
     "icon": "https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png",
     "slug": "backend-us",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.46%",
+    "uptimeYear": "99.47%",
     "time": 553,
-    "timeDay": 289,
-    "timeWeek": 239,
-    "timeMonth": 246,
-    "timeYear": 355,
+    "timeDay": 197,
+    "timeWeek": 222,
+    "timeMonth": 242,
+    "timeYear": 351,
     "dailyMinutesDown": {
+      "2025-11-18": 0,
       "2025-02-28": 370,
       "2025-02-27": 422,
       "2025-02-26": 374,
       "2025-02-25": 442,
       "2025-02-24": 472,
       "2025-02-23": 552,
-      "2025-02-22": 191
+      "2025-02-22": 156
     }
   },
   {
@@ -112,18 +115,20 @@
     "url": "https://api.au.licenseware.io/licenseware/",
     "icon": "https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png",
     "slug": "backend-au",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 712,
-    "timeDay": 648,
-    "timeWeek": 588,
-    "timeMonth": 546,
-    "timeYear": 730,
-    "dailyMinutesDown": {}
+    "timeDay": 402,
+    "timeWeek": 534,
+    "timeMonth": 533,
+    "timeYear": 728,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Landing page",
