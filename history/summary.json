@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 225,
-    "timeDay": 261,
-    "timeWeek": 211,
-    "timeMonth": 258,
-    "timeYear": 225,
+    "timeDay": 244,
+    "timeWeek": 194,
+    "timeMonth": 253,
+    "timeYear": 226,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 587,
-    "timeDay": 326,
-    "timeWeek": 496,
-    "timeMonth": 514,
-    "timeYear": 551,
+    "time": 586,
+    "timeDay": 363,
+    "timeWeek": 402,
+    "timeMonth": 513,
+    "timeYear": 549,
     "dailyMinutesDown": {
       "2025-11-18": 145
     }
@@ -43,16 +43,16 @@
     "icon": "https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png",
     "slug": "application-us",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.47%",
     "time": 216,
-    "timeDay": 73,
-    "timeWeek": 145,
-    "timeMonth": 186,
-    "timeYear": 221,
+    "timeDay": 237,
+    "timeWeek": 164,
+    "timeMonth": 190,
+    "timeYear": 222,
     "dailyMinutesDown": {
       "2025-02-28": 355,
       "2025-02-27": 422,
@@ -75,10 +75,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
     "time": 337,
-    "timeDay": 200,
-    "timeWeek": 244,
-    "timeMonth": 253,
-    "timeYear": 328,
+    "timeDay": 119,
+    "timeWeek": 217,
+    "timeMonth": 250,
+    "timeYear": 327,
     "dailyMinutesDown": {
       "2025-11-18": 134,
       "2025-02-28": 370,
@@ -101,11 +101,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 353,
-    "timeDay": 389,
+    "time": 352,
+    "timeDay": 236,
     "timeWeek": 236,
     "timeMonth": 220,
-    "timeYear": 250,
+    "timeYear": 249,
     "dailyMinutesDown": {}
   },
   {
@@ -120,10 +120,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 705,
-    "timeDay": 761,
-    "timeWeek": 541,
-    "timeMonth": 766,
-    "timeYear": 707,
+    "timeDay": 288,
+    "timeWeek": 464,
+    "timeMonth": 757,
+    "timeYear": 705,
     "dailyMinutesDown": {
       "2025-11-18": 134
     }
@@ -138,19 +138,18 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.82%",
-    "time": 1622,
-    "timeDay": 1578,
-    "timeWeek": 1789,
-    "timeMonth": 1989,
-    "timeYear": 1872,
+    "uptimeYear": "99.84%",
+    "time": 1624,
+    "timeDay": 1847,
+    "timeWeek": 1751,
+    "timeMonth": 1981,
+    "timeYear": 1877,
     "dailyMinutesDown": {
       "2025-07-21": 41,
       "2025-04-21": 445,
       "2025-04-16": 137,
       "2025-04-15": 103,
-      "2025-02-27": 20,
-      "2025-01-18": 79
+      "2025-02-27": 20
     }
   }
 ]
