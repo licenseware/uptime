@@ -6,32 +6,20 @@ sites:
     url: https://app.licenseware.io
     icon: https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png
   - name: Backend - EU
-    url: https://api.licenseware.io/licenseware/
+    url: https://api.licenseware.io/licenseware/.well-known/jwks.json
     icon: https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png
-    expectedStatusCodes:
-      - 200
-      - 302
-      - 404
   - name: Application - US
     url: https://us.licenseware.io
     icon: https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png
   - name: Backend - US
-    url: https://api.us.licenseware.io/licenseware/
+    url: https://api.us.licenseware.io/licenseware/.well-known/jwks.json
     icon: https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png
-    expectedStatusCodes:
-      - 200
-      - 302
-      - 404
   - name: Application - AU
     url: https://au.licenseware.io
     icon: https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png
   - name: Backend - AU
-    url: https://api.au.licenseware.io/licenseware/
+    url: https://api.au.licenseware.io/licenseware/.well-known/jwks.json
     icon: https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png
-    expectedStatusCodes:
-      - 200
-      - 302
-      - 404
   - name: Landing page
     url: https://licenseware.io
     icon: https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png
