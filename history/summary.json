@@ -4,18 +4,20 @@
     "url": "https://app.licenseware.io",
     "icon": "https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png",
     "slug": "application-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 225,
-    "timeDay": 483,
-    "timeWeek": 285,
-    "timeMonth": 219,
-    "timeYear": 237,
-    "dailyMinutesDown": {}
+    "timeDay": 308,
+    "timeWeek": 266,
+    "timeMonth": 216,
+    "timeYear": 236,
+    "dailyMinutesDown": {
+      "2026-08-02": 5
+    }
   },
   {
     "name": "Backend - EU",
@@ -45,18 +47,20 @@
     "url": "https://us.licenseware.io",
     "icon": "https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png",
     "slug": "application-us",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 230,
-    "timeDay": 285,
-    "timeWeek": 208,
-    "timeMonth": 167,
+    "timeDay": 217,
+    "timeWeek": 201,
+    "timeMonth": 166,
     "timeYear": 169,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-02": 5
+    }
   },
   {
     "name": "Backend - US",
@@ -85,18 +89,20 @@
     "url": "https://au.licenseware.io",
     "icon": "https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png",
     "slug": "application-au",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 85,
-    "timeWeek": 143,
-    "timeMonth": 241,
+    "timeDay": 105,
+    "timeWeek": 140,
+    "timeMonth": 237,
     "timeYear": 220,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-02": 5
+    }
   },
   {
     "name": "Backend - AU",
@@ -131,19 +137,20 @@
     "url": "https://licenseware.io",
     "icon": "https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png",
     "slug": "landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 2014,
+    "time": 2015,
     "timeDay": 1980,
     "timeWeek": 2142,
     "timeMonth": 2093,
     "timeYear": 2118,
     "dailyMinutesDown": {
-      "2026-01-30": 308
+      "2026-01-30": 308,
+      "2026-08-02": 0
     }
   }
 ]
