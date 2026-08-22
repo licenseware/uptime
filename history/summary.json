@@ -69,16 +69,16 @@
     "url": "https://api.us.licenseware.io/licenseware/.well-known/jwks.json",
     "icon": "https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png",
     "slug": "backend-us",
-    "status": "down",
+    "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.92%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.91%",
     "time": 267,
-    "timeDay": 169,
-    "timeWeek": 205,
-    "timeMonth": 229,
+    "timeDay": 157,
+    "timeWeek": 200,
+    "timeMonth": 227,
     "timeYear": 260,
     "dailyMinutesDown": {
       "2025-11-18": 134,
@@ -86,7 +86,7 @@
       "2026-04-29": 20,
       "2026-08-16": 29,
       "2026-08-20": 9,
-      "2026-08-22": 1
+      "2026-08-22": 25
     }
   },
   {
@@ -115,16 +115,16 @@
     "url": "https://api.au.licenseware.io/licenseware/.well-known/jwks.json",
     "icon": "https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png",
     "slug": "backend-au",
-    "status": "down",
-    "uptime": "99.57%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.56%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.14%",
-    "time": 687,
-    "timeDay": 699,
+    "time": 688,
+    "timeDay": 702,
     "timeWeek": 712,
-    "timeMonth": 650,
+    "timeMonth": 652,
     "timeYear": 689,
     "dailyMinutesDown": {
       "2025-11-18": 134,
@@ -136,7 +136,7 @@
       "2026-07-20": 537,
       "2026-07-19": 1440,
       "2026-07-18": 1391,
-      "2026-08-22": 0
+      "2026-08-22": 24
     }
   },
   {
