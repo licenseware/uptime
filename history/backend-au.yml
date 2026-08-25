@@ -1,7 +1,7 @@
 url: https://api.au.licenseware.io/licenseware/.well-known/jwks.json
 status: up
 code: 200
-responseTime: 558
-lastUpdated: 2026-08-24T23:05:06.099Z
+responseTime: 1025
+lastUpdated: 2026-08-25T23:05:33.136Z
 startTime: 2024-02-26T02:55:31.020Z
 generator: Upptime <https://github.com/upptime/upptime>
