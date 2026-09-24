@@ -13,7 +13,7 @@
     "time": 227,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 214,
+    "timeMonth": 241,
     "timeYear": 223,
     "dailyMinutesDown": {
       "2026-08-02": 23,
@@ -26,7 +26,7 @@
     "icon": "https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png",
     "slug": "backend-eu",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -34,7 +34,7 @@
     "time": 497,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 654,
+    "timeMonth": 405,
     "timeYear": 501,
     "dailyMinutesDown": {
       "2025-11-18": 145,
@@ -57,7 +57,7 @@
     "time": 230,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 137,
+    "timeMonth": 151,
     "timeYear": 166,
     "dailyMinutesDown": {
       "2026-08-02": 22,
@@ -78,8 +78,8 @@
     "time": 267,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 143,
-    "timeYear": 237,
+    "timeMonth": 157,
+    "timeYear": 236,
     "dailyMinutesDown": {
       "2025-11-18": 134,
       "2026-01-18": 241,
@@ -103,7 +103,7 @@
     "time": 213,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 249,
+    "timeMonth": 265,
     "timeYear": 222,
     "dailyMinutesDown": {
       "2026-08-02": 22,
@@ -124,7 +124,7 @@
     "time": 687,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 955,
+    "timeMonth": 680,
     "timeYear": 671,
     "dailyMinutesDown": {
       "2025-11-18": 134,
@@ -153,8 +153,8 @@
     "time": 2071,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 2851,
-    "timeYear": 2170,
+    "timeMonth": 3013,
+    "timeYear": 2152,
     "dailyMinutesDown": {
       "2026-01-30": 308,
       "2026-08-02": 17,
