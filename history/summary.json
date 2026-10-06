@@ -25,23 +25,23 @@
     "url": "https://api.licenseware.io/licenseware/.well-known/jwks.json",
     "icon": "https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png",
     "slug": "backend-eu",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.62%",
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "96.15%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.61%",
     "time": 496,
-    "timeDay": 221,
-    "timeWeek": 221,
-    "timeMonth": 221,
+    "timeDay": 220,
+    "timeWeek": 220,
+    "timeMonth": 220,
     "timeYear": 500,
     "dailyMinutesDown": {
       "2025-11-18": 145,
       "2026-03-07": 1124,
       "2026-03-06": 55,
       "2026-06-14": 692,
-      "2026-10-06": 6
+      "2026-10-06": 56
     }
   },
   {
