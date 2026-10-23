@@ -22,7 +22,7 @@
   },
   {
     "name": "Backend - EU",
-    "url": "https://api.licenseware.io/licenseware/.well-known/jwks.json",
+    "url": "https://api.licenseware.io/licenseware/anonymous/status",
     "icon": "https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png",
     "slug": "backend-eu",
     "status": "up",
@@ -35,7 +35,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 220,
-    "timeYear": 501,
+    "timeYear": 500,
     "dailyMinutesDown": {
       "2025-11-18": 145,
       "2026-03-07": 1124,
@@ -59,7 +59,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 165,
+    "timeYear": 166,
     "dailyMinutesDown": {
       "2026-08-02": 22,
       "2026-08-15": 11
@@ -67,7 +67,7 @@
   },
   {
     "name": "Backend - US",
-    "url": "https://api.us.licenseware.io/licenseware/.well-known/jwks.json",
+    "url": "https://api.us.licenseware.io/licenseware/anonymous/status",
     "icon": "https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png",
     "slug": "backend-us",
     "status": "up",
@@ -113,7 +113,7 @@
   },
   {
     "name": "Backend - AU",
-    "url": "https://api.au.licenseware.io/licenseware/.well-known/jwks.json",
+    "url": "https://api.au.licenseware.io/licenseware/anonymous/status",
     "icon": "https://licenseware.io/wp-content/uploads/2020/11/cropped-Screenshot-2020-11-02-at-10.11.47.png",
     "slug": "backend-au",
     "status": "up",
@@ -126,7 +126,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 673,
+    "timeYear": 674,
     "dailyMinutesDown": {
       "2025-11-18": 134,
       "2026-01-18": 241,
